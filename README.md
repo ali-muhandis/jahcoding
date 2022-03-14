@@ -28,6 +28,10 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/jahcoding#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/jahcoding#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/tg-light.svg)](https://t.me/jahcoding#gh-light-mode-only)
+[![website](./img/tg-dark.svg)](https://t.me/jahcoding#gh-dark-mode-only)
+
 
 ### Languages and Tools:
 
