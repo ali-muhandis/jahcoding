@@ -17,8 +17,8 @@
 [![website](./img/globe-light.svg)](https://jahcoding.uz/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://jahcoding.uz/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com#gh-dark-mode-only)
+[![youtube](./img/youtube-light.svg)](https://youtube.com#gh-light-mode-only)
+[![youtube](./img/youtube-dark.svg)](https://youtube.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/tg-light.svg)](https://t.me/jahcoding#gh-light-mode-only)
 [![website](./img/tg-dark.svg)](https://t.me/jahcoding#gh-dark-mode-only)
@@ -63,6 +63,6 @@
 [website]: https://jahcoding.uz
 [course]: http://owa.uz
 [telegram]: https://t.me/jahcoding
-[youtube]: https://youtube.com/
+[youtube]: https://www.youtube.com/channel/UCnYtKVEtE66I3srI5baFX0w
 [instagram]: https://instagram.com/jahcoding
 [linkedin]: https://linkedin.com/in/jahcoding
