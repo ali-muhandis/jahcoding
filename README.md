@@ -17,8 +17,8 @@
 [![website](./img/globe-light.svg)](https://jahcoding.uz/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://jahcoding.uz/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![youtube](./img/youtube-light.svg)](https://youtube.com#gh-light-mode-only)
-[![youtube](./img/youtube-dark.svg)](https://youtube.com#gh-dark-mode-only)
+[![youtube](./img/youtube-light.svg)](https://youtube.com/channel/UCnYtKVEtE66I3srI5baFX0w#gh-light-mode-only)
+[![youtube](./img/youtube-dark.svg)](https://youtube.com/channel/UCnYtKVEtE66I3srI5baFX0w#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/tg-light.svg)](https://t.me/jahcoding#gh-light-mode-only)
 [![website](./img/tg-dark.svg)](https://t.me/jahcoding#gh-dark-mode-only)
