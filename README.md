@@ -3,7 +3,7 @@
 
 
 
-## I'm a Developer, and Teacher!!
+## I'm a FrontEnd Developer, and Teacher!!
 
 - 🔭 Check out my FrontEnd course: [OWA FrontEnd course (offline in Karshi, Uzbekistan)][course]!
 - 🌱 I’m currently learning everything 🤣
