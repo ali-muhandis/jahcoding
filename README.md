@@ -6,7 +6,7 @@
 ## I'm a FrontEnd Developer, and Teacher!!
 
 - 🔭 Check out my FrontEnd course: [OWA FrontEnd course (offline in Karshi, Uzbekistan)][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 🤝 I’m looking for opportunities to collaborate with other programmers
 - 🥅 2022 Goals: Learn more about JS/ReactJS/Redux
 - ⚡ Fun fact: I love to read and play chess
