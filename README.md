@@ -1,4 +1,4 @@
-# Hi there, I'm Jahongir - aka [jahcoding][website] 👋 
+# Hi there, I'm Ali - aka [jahcoding][website] 👋 
 
 
 
