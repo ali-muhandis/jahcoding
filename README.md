@@ -8,7 +8,7 @@
 - 🔭 Check out my FrontEnd course: [OWA FrontEnd course (offline in Karshi, Uzbekistan)][course]!
 - 🌱 I’m currently learning everything
 - 🤝 I’m looking for opportunities to collaborate with other programmers
-- 🥅 2022 Goals: Learn more about JS/ReactJS/Redux
+- 🥅 2023 Goals: Learn more about TS/ReactNative/Flutter
 - ⚡ Fun fact: I love to read and play chess
 - 😻 Check out the pet projects I created: [PetProjects](https://jahcoding.uz/#portfolio)
 
