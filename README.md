@@ -26,7 +26,7 @@
 
 [<img alt="jahcoding | Telegram" src="https://img.shields.io/badge/telegram-4680C2.svg?&style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
 
-### 🍻 Subscribe channels:
+### 🍻 Subscribe to channels:
 
 [<img alt="jahcoding | Telegram Frontendiy" src="https://img.shields.io/badge/frontendiy-4680C2.svg?&style=for-the-badge&logo=telegram&logoColor=white"  />][telegramfr]
 [<img alt="jahcoding | Telegram Open Web Academy" src="https://img.shields.io/badge/open web academy-4680C2.svg?&style=for-the-badge&logo=telegram&logoColor=white"  />][telegramowa]
