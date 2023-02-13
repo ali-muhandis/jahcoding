@@ -1,4 +1,4 @@
-<img src="https://github.com/jahcoding/jahcoding/blob/main/img/preview.png">
+<img src="https://github.com/jahcoding/jahcoding/blob/main/img/preview.svg">
 
 <div align="center">
   <a href="https://github.com/jahcoding?tab=repositories&sort=stargazers">
