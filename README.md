@@ -67,18 +67,18 @@
 
 ---
 
-### ⚙️ GitHub Analytics
+<!--### ⚙️ GitHub Analytics 
 
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jahcoding&theme=algolia" alt="webDev's Github stats" />
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jahcoding&theme=algolia" alt="jahcoding's Github stats" />
     </td>
     <td>
       <img height="195px" align="right" alt="jahcoding's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jahcoding&theme=algolia&layout=compact" />
     </td>
   </tr>
-</table>
+</table> -->
 
 [instagram]: https://instagram.com/jahcoding
 [linkedin]: https://linkedin.com/in/jahcoding
