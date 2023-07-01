@@ -1,6 +1,7 @@
 <img src="https://github.com/jahcoding/jahcoding/blob/main/img/preview.svg">
 
 <div align="center">
+  
   <a href="https://github.com/jahcoding?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jahcoding"/></a>
   <a href="https://github.com/jahcoding?tab=repositories&sort=stargazers">
@@ -8,8 +9,9 @@
   <a href="https://github.com/jahcoding">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/jahcoding?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
+<!-- <img align="right" src="https://komarev.com/ghpvc/?username=jahcoding&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="Ali" /> -->
 
-### Hi all, I'm Ali - aka [jahcoding][telegram] 👋 <img align="right" src="https://komarev.com/ghpvc/?username=jahcoding&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="Ali" />
+### Hi all, I'm Ali - aka [jahcoding][telegram] 👋 <a href="https://www.codewars.com/users/jahcoding" target="_blank"><img align="right" src="https://www.codewars.com/users/jahcoding/badges/micro" alt="Ali" /></a>
 
 ## I'm a Developer, Teacher and Mentor!
 
