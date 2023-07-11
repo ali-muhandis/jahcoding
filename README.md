@@ -11,7 +11,7 @@
 </div>
 <!-- <img align="right" src="https://komarev.com/ghpvc/?username=jahcoding&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="Ali" /> -->
 
-### Hi all, I'm Ali - aka [jahcoding][telegram] 👋 <a href="https://www.codewars.com/users/jahcoding" target="_blank"><img align="right" src="https://www.codewars.com/users/jahcoding/badges/micro" alt="Ali" /></a>
+### Hi all, I'm Ali - aka [jahcoding][telegram] 👋 <a href="https://www.codewars.com/users/alicodify" target="_blank"><img align="right" src="https://www.codewars.com/users/alicodify/badges/micro" alt="Ali" /></a>
 
 ## I'm a Developer, Teacher and Mentor!
 
